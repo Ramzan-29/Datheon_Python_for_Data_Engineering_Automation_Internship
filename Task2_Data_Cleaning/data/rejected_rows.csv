@@ -1,0 +1,66 @@
+book_id,title,price_gbp,rating,in_stock,category,scraped_date,reviews,reject_reason
+BK00013,Broken Letters Empire #13,,5,True,Mystery,,18,price_gbp is null
+BK00026,Glass Hidden Letters #26,,2,True,Fiction,2026-08-07,141,price_gbp is null
+BK00030,Secret Glass Night #30,,5,True,Travel,2026-05-23,45,price_gbp is null
+BK00061,Letters Ocean Golden #61,57.13,9,False,Music,2026-09-14,64,rating outside 1-5
+BK00068,Letters Last Golden #68,19.53,9,False,History,2026-09-18,72,rating outside 1-5
+BK00112,Night Ocean Golden #112,,4,True,History,2026-06-18,79,price_gbp is null
+BK00124,Secret Last Garden #124,,4,True,History,2026-06-23,183,price_gbp is null
+BK00138,Ocean Night Hidden #138,,5,False,History,2026-10-25,10,price_gbp is null
+BK00167,Road Garden Ocean #167,,4,False,Humor,2026-03-11,34,price_gbp is null
+BK00174,Empire Last Golden #174,,3,False,Travel,2026-04-15,68,price_gbp is null
+BK00178,Garden Paper Last #178,,2,True,Humor,2026-10-11,213,price_gbp is null
+BK00184,Night Garden Dream #184,,1,True,Music,2026-07-13,216,price_gbp is null
+BK00190,Glass Last Golden #190,-5.0,,True,Humor,2026-03-20,92,price_gbp <= 0
+BK00196,Paper Secret Golden #196,,2,False,Travel,2026-07-21,6,price_gbp is null
+BK00197,Letters Winter Dream #197,,3,True,Humor,2026-02-05,0,price_gbp is null
+BK00229,Last Silent Hidden #229,,2,False,Poetry,2026-06-27,197,price_gbp is null
+BK00244,Shadow Golden Road #244,,2,True,History,2026-08-07,8,price_gbp is null
+BK00283,Glass Winter Hidden #283,-5.0,5,True,Music,2026-03-23,109,price_gbp <= 0
+BK00290,,40.45,4,True,Science,2026-05-15,127,title is null
+BK00306,Golden Shadow Paper #306,,2,False,Poetry,2026-06-25,220,price_gbp is null
+BK00314,Ocean Road Broken #314,-5.0,1,True,Science,2026-06-12,137,price_gbp <= 0
+BK00345,Empire Golden Secret #345,,1,False,History,,237,price_gbp is null
+BK00385,Silent Broken Paper #385,,4,True,Humor,2026-02-02,104,price_gbp is null
+BK00411,Last Silent Secret #411,,3,False,Humor,2026-07-31,33,price_gbp is null
+BK00415,,48.81,5,,Travel,2026-07-14,27,title is null
+BK00419,Winter Letters Night #419,,4,True,Mystery,2026-03-25,181,price_gbp is null
+BK00423,Letters Night Silent #423,,2,True,Poetry,2026-10-08,37,price_gbp is null
+BK00429,Shadow Garden Secret #429,,3,False,Fiction,2026-04-19,76,price_gbp is null
+BK00448,,32.65,2,True,Humor,2026-05-30,203,title is null
+BK00454,Paper Empire Glass #454,,5,True,Travel,2026-10-07,0,price_gbp is null
+BK00474,Garden Winter Silent #474,,5,True,Music,2026-05-03,247,price_gbp is null
+BK00476,Paper Night Garden #476,46.77,9,True,Fiction,2026-09-08,44,rating outside 1-5
+BK00507,Night Secret Garden #507,,1,False,Science,2026-04-10,249,price_gbp is null
+BK00549,Last River Hidden #549,,5,False,Music,2026-05-21,81,price_gbp is null
+BK00636,Dream Last Empire #636,-5.0,5,True,Poetry,2026-06-25,60,price_gbp <= 0
+BK00646,Road Dream Empire #646,,2,False,Fiction,2026-07-25,55,price_gbp is null
+BK00667,Silent Glass Last #667,,5,False,Science,2026-04-02,164,price_gbp is null
+BK00683,Ocean Night Shadow #683,-5.0,4,False,Humor,2026-03-05,181,price_gbp <= 0
+BK00704,Golden Garden Secret #704,,2,True,Science,2026-04-18,208,price_gbp is null
+BK00722,Dream Golden Road #722,,2,False,Fiction,2026-05-13,235,price_gbp is null
+BK00724,Paper Ocean Night #724,,1,True,Travel,2026-07-28,42,price_gbp is null
+BK00752,Paper Shadow Broken #752,,4,False,Mystery,2026-09-03,145,price_gbp is null
+BK00772,River Night Broken #772,,2,True,Fiction,2026-06-21,152,price_gbp is null
+BK00777,Last Secret Ocean #777,,2,False,Fiction,2026-08-09,145,price_gbp is null
+BK00787,Garden Night Shadow #787,,,False,History,2026-06-02,90,price_gbp is null
+BK00789,Secret River Shadow #789,,4,False,Music,2026-01-02,55,price_gbp is null
+BK00795,Golden Silent Broken #795,,3,False,Poetry,2026-09-17,1,price_gbp is null
+BK00806,,22.5,5,True,Poetry,2026-04-12,244,title is null
+BK00817,Garden Glass Dream #817,-5.0,5,True,Mystery,2026-06-05,149,price_gbp <= 0
+BK00822,,53.39,1,False,Science,2026-09-20,243,title is null
+BK00881,Glass Silent Broken #881,,1,False,Science,2026-01-23,19,price_gbp is null
+BK00910,Paper Silent Garden #910,52.27,9,True,Mystery,2026-09-27,6,rating outside 1-5
+BK00932,Garden Glass Road #932,,1,False,Poetry,2026-05-10,44,price_gbp is null
+BK00965,Secret Golden Road #965,,3,True,Travel,2026-01-07,53,price_gbp is null
+BK00967,Secret Letters Empire #967,,4,False,History,2026-10-27,142,price_gbp is null
+BK00974,Ocean Night Silent #974,,5,True,Music,2026-08-25,128,price_gbp is null
+BK00999,Golden Garden River #999,,3,False,Poetry,2026-06-25,83,price_gbp is null
+BK01033,Glass Secret Silent #1033,-5.0,5,True,Poetry,2026-09-24,0,price_gbp <= 0
+BK01049,Broken Dream Paper #1049,26.01,9,False,Mystery,2026-07-02,234,rating outside 1-5
+BK01067,Garden Winter River #1067,,2,True,Science,2026-04-06,236,price_gbp is null
+BK01076,Last Ocean Night #1076,,4,False,Travel,2026-04-10,135,price_gbp is null
+BK01083,Golden Last Winter #1083,-5.0,5,True,Science,,100,price_gbp <= 0
+BK01106,Dream Winter Paper #1106,,4,False,Travel,2026-01-22,222,price_gbp is null
+BK01142,Winter Golden Night #1142,,1,False,Fiction,2026-02-27,175,price_gbp is null
+BK01168,Dream Secret Last #1168,,5,True,Poetry,2026-02-06,207,price_gbp is null

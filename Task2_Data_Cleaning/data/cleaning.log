@@ -1,0 +1,3 @@
+2026-11-02 09:18:56,402 INFO Normalised text; missing categories filled with 'Unknown'
+2026-11-02 09:18:56,711 INFO Parsed currency, dates, ratings, availability
+2026-11-02 09:18:56,757 INFO Done: 1135 clean, 65 rejected
